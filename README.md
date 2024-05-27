@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Hello My Name Is Robi<br>Still Learning About Programming Especially For Mobile Programming
+🌱 Hello My Name Is Robi<br>Still Learning About Programming Especially For Mobile Programming And Web Development
 
 
 ## 🌐 Socials:
